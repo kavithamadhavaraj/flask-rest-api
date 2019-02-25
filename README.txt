@@ -6,9 +6,8 @@ Install the necessary libraries
 To start the server, navigate to src folder and run the following command
 >> python simple_api.py 
 
-Python Assignment 
+**Python Assignment** 
 
-""
 The vast majority of our app involves the user requesting some data that requires us to do some manipulation on the backend before returning it to the user. Imagine we have some simple datastructure with columns:
 
 - Employee ID
@@ -46,9 +45,6 @@ The /headcount_over_time endpoint should accept GET requests along with a possib
 Please use python for this task, though feel free to use whichever librarys/frameworks  you like. As for the data, pretend the variable 'employee_data' is output from querying the database for all records.
 
 The server should get up and running by just running this file with `python simple_api.py` from the command-line.
-
-"""
-
 
 employee_data = [{'date': '2017-03-01', 'dept': 'Sales', 'employee': 3, 'salary': 70000},
  {'date': '2015-03-01', 'dept': 'Engineering', 'employee': 4, 'salary': 45000},
