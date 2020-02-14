@@ -65,4 +65,4 @@ def get_monthly_headcount():
     return jsonify(response_obj)
     
 if __name__ == '__main__':
-    app.run(debug=True, port=9999)
+    app.run(debug=False, port=9999)
