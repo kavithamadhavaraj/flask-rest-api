@@ -15,7 +15,7 @@ The vast majority of our app involves the user requesting some data that require
 - Effectvie Date
 - Department
 
-Note that Employee ID is a unique identifier for the individual person. A person joins the company when their employee ID has its first effective date. If the same ID has multiple effective dates, that may be a result of getting a raise, or switching departments within the company. 
+Note that Employee ID is a unique identifier for the individual person. A person joins the company when their employee ID has its first effective date. If the same ID has multiple effective dates, that may be a result of getting a raise, or switching departments within the company.
 
 Assume that the company has no employees other than the ones in the data, and that no one leaves the company after they join.
 
